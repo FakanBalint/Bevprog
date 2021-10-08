@@ -8,7 +8,7 @@ int age = 0; //Friend's Age
 cout <<"Enter the name of the person you want to write to" << endl; 
 cin >> FN;
 cout <<"Hello " << FN << "," << endl;
-cout <<"How are you? I am fine. I miss you.\nWe have met soo long ago are you still doing your hobbies?"<< endl;
+cout <<"How are you? I am fine. I miss you.\nWe have met soo long ago. Are you still doing your hobbies?"<< endl;
 
 cout <<"Enter your other friend's name and gender(f for female m for male)" << endl; 
 cin >> FriendN >>FGender;
